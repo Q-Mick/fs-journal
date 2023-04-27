@@ -22,19 +22,19 @@
         }
     ```
 
-    > | Selector, property and value |
+    > | Selector, property and value are the three components |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > | A website serves as a first impression for a company/project. Seeing an amazing website can convey the message the company is trying to sell.  |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | To help architecht a website and help with accessibility |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > | !00% they are worth it. There is no point in coding yourself in to a hole just to have to start over. Structure first with a design then code. |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | the flex property converts an elements to have the flex property which makes all of the items within it resort to a flexible grid style systemand allows designing to fit multiple screen sizes and more |
 
 11. What `CSS` properties affect the size of a box model?
     > | padding, margin, border  |

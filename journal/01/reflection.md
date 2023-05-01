@@ -10,4 +10,7 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 So far I love having the understanding of css, html and java script and how it works together. The bootstrap system is awesome as well and the grid structure has proven to me that it is an important tool for my toolbox. 
 
-I am having a bit of trouble understanding accessibility though. I have not figured out quite how to make the site show up well on a smaller screen
+I am having a bit of trouble understanding accessibility though. I have not figured out quite how to make the site show up well on a smaller screen.
+
+05/01/2023 
+I now feel much more comfortable with flex and bootstrap

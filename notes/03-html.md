@@ -4,5 +4,6 @@
 
 4. link to bootstrap stylesheet before our own stylesheet
 5.
-
+span is display type in line no longer than the object in it
+div has its own block which will take the whole screen
 <

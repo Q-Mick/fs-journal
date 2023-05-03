@@ -5,19 +5,23 @@
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > | a function is a *subprogram* designed to perform a particular task and are only executed when we call them, aka invoking them. |
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > | S - single responsibility | O - open-closed-principal | L - Liskov Substitution principal | I - Integration Segregation Principle | D - Dependency inversion Principal
+
 
 04. Given this array: How could you remove the `pineapple`?
 
     ```js
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
+    fruit = fruit.splice(2, 2)
+    console.log(fruit)
+
     ```
 
-    > | ANSWER HERE |
+    > | fruit.splice(2, 2) |
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,24 +38,26 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > | you.friends = them.friends.concat(you.friends) | them.friends = you.friends.concat(them.friends)
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > | if(thisIsMyJournal == true) |
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > | parameters are the what tell you what arguments the function is asking for and the argument is the data itself  |
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > | debugger keyword |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | ANSWER HERE ?? |
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > | for (let i = -100; i <= 100; i++) {
+  console.log(i);
+} |

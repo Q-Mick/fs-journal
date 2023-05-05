@@ -54,7 +54,7 @@
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE ?? |
+    > | a primitive value is a simple data type that is not an object and has no methods. Primitive values include basic data types such as numbers (integers, floats, etc.), Booleans, and characters.|
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 

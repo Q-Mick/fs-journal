@@ -7,3 +7,5 @@
 span is display type in line no longer than the object in it
 div has its own block which will take the whole screen
 <
+
+**<marquee>** behavior="alternate", direction="left" up down  scrollamount="2"

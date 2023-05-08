@@ -58,3 +58,8 @@ setInterval(2000)
 * .queryselectorall() returns a full list of supplied element
 * .innertext will edit the text between the targetted element
 
+
+
+
+**class->Constructor**
+* constructor is responsible for building things a special function used for instantiating an instance of a class

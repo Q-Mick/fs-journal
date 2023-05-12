@@ -48,6 +48,7 @@ textContent = 'string'
 **string functions**
 * 
 * stringname.split()
+* 
 
 **Intervals** in milliseconds 2000 = 2 seconds
 setInterval(2000)
@@ -63,3 +64,6 @@ setInterval(2000)
 
 **class->Constructor**
 * constructor is responsible for building things a special function used for instantiating an instance of a class
+
+* do not import bootstrap or it will not work
+bootstrap.Modal.GetOrCreateInstance('#modal).hide

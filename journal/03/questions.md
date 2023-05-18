@@ -1,7 +1,7 @@
 # Application Architecture, MVC Design Pattern
 01. What are the Pillars of Object Oriented Programming (`OOP`)?
   
-  > | the four pillars or oop are Abstraction,encapsulation, inheritance and polymorphism|
+  > | the four pillars of oop are Abstraction,encapsulation, inheritance and polymorphism|
 
 02. How does `export` differ from `export default`?
   
@@ -17,7 +17,7 @@
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | class is the definition of the object. An instance of a class is a built version based on the blueprints of the class dwfinition |
+  > | class is the definition of the object. An instance of a class is a built version based on the blueprints of the class definition |
 
 06. What is a computed Property?
   

@@ -16,12 +16,12 @@
 
     ```js
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
-    fruit = fruit.splice(2, 2)
+    fruit = fruit.splice(2, 0)
     console.log(fruit)
 
     ```
 
-    > | fruit.splice(2, 2) |
+    > | fruit.splice(2, 1) |
 
 05. Given these two objects: How could you add each to the others friends arrays?
 

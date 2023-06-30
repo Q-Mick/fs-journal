@@ -1,5 +1,5 @@
 **csharp intro** 
-**console.WriteLine**
+* **console.WriteLine**
 
 * **data types**
   * **integer** - int `x=6;`
@@ -15,3 +15,10 @@
   dict.Add("two", "anotha one")
   dict.Remove("two")`
 **objects**
+* **Array**
+* **List** - `List<int> numbers = new List<int>{};`
+  * `numbers.ass(1);`
+  * `numbers.Ass(2);`
+  * `numbers.Remove(2);`
+  * `int five = numbers.Find(n => n == 2);`
+  * Lists use count not length

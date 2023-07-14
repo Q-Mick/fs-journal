@@ -47,4 +47,4 @@
 
   ```
 
-  > | ANSWER HERE |
+  > | SELECT * FROM doctors JOIN patients ON doctors.id = patients_doctor.id |
